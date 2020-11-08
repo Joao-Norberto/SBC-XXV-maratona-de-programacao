@@ -4,6 +4,7 @@ Soluções do aquecimento da XXIV Maratona de Programação organizada pela SBC
 # Problema A: Teleférico
 
 <img src="/doc/aquecimento/A.png" >
+
 # Problema B: Fatorial
 
 <img src="/doc/aquecimento/B.png" >
