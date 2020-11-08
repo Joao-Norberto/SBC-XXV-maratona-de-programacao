@@ -1,2 +1,2 @@
-# SBC-XXV-maratona-de-progrmacao
+# SBC-XXV-maratona-de-programacao
 Soluções da XXIV Maratona de Programação organizada pela SBC
